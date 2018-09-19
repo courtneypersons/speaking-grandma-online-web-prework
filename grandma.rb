@@ -17,6 +17,6 @@
     if speak == speak.upcase
       "NO, NOT SINCE 1938!"
     else
-    'I LOVE YOU TOO PUMPKIN!'
+      "HUH?! SPEAK UP, SONNY!"
     end
   end
