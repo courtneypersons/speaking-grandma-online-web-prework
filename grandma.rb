@@ -1,5 +1,5 @@
 # Write a speak_to_grandma method.
-speak_to_grandma 
+speak_to_grandma == 'hello'
 
 if speak_to_grandma ==  "I LOVE YOU GRANDMA!"
 puts 'I LOVE YOU TOO PUMPKIN!'
