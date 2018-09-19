@@ -1,5 +1,5 @@
 # Write a speak_to_grandma method.
-speak_to_grandma = "HUH?! SPEAK UP, SONNY!"
+speak_to_grandma = "HUH?!"
 
 if speak_to_grandma ==  "I LOVE YOU GRANDMA!"
 puts 'I LOVE YOU TOO PUMPKIN!'
@@ -15,6 +15,9 @@ elsif speak_to_grandma == 'WHAT DID YOU EAT TODAY?'
 
 elsif speak_to_grandma == 'WHAT?'
   puts "NO, NOT SINCE 1938!"
+
+else 
+  puts "HUH?! SPEAK UP, SONNY!"
 
 end
 
