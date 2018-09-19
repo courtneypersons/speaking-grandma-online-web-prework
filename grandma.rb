@@ -17,7 +17,7 @@
     if speak == speak.upcase
       'I LOVE YOU TOO PUMPKIN!'
 
-    elsif   if speak == speak
+    elsif   
        "NO, NOT SINCE 1938!"
     else
       "HUH?! SPEAK UP, SONNY!"
