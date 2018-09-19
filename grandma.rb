@@ -10,13 +10,5 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-def speak_to_grandma(speak = "NO, NOT SINCE 1938!")
-  if speak == speak.upcase
-"I LOVE YOU TOO PUMPKIN!"
-elsif speak == speak
-  "NO, NOT SINCE 1938!"
-
-  else
-    "HUH?! SPEAK UP, SONNY!"
-  end
-end
+def speak_to_grandma(speak)
+  
