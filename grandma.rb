@@ -1,9 +1,11 @@
 # Write a speak_to_grandma method.
-
+speak_to_grandma = "I LOVE YOU GRANDMA!"
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
-
+if speak_to_grandma = I LOVE YOU GRANDMA!
+  puts I LOVE YOU TOO PUMPKIN!
+end
 # If you shout, she can hear you (or at least she thinks so)
 # and yells back
 
