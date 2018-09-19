@@ -17,7 +17,7 @@ elsif speak_to_grandma == 'WHAT?'
   puts "NO, NOT SINCE 1938!"
 
 else
-  puts "HUH?! SPEAK UP, SONNY!"
+  puts "HUH?!"
 
 end
 
