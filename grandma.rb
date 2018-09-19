@@ -20,7 +20,7 @@ def speak_to_grandma(speak)
   elsif speak == 'WHAT DID YOU EAT TODAY?'
     puts  "NO, NOT SINCE 1938!"
 
-  else 
+  else
 puts  "HUH?! SPEAK UP, SONNY!'"
 
   end
