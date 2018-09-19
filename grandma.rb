@@ -13,7 +13,7 @@
 
   #   puts "HUH?! SPEAK UP, SONNY!'"
 
-  def speak_to_grandma(speak,)
+  def speak_to_grandma(speak)
     if speak == speak.upcase
       "NO, NOT SINCE 1938!"
     else
