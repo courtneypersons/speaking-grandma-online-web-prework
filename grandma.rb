@@ -1,19 +1,19 @@
 # Write a speak_to_grandma method.
-GRANDMA = speak_to_grandma
+speak_to_grandma 
 
-if GRANDMA ==  "I LOVE YOU GRANDMA!"
+if speak_to_grandma ==  "I LOVE YOU GRANDMA!"
 puts 'I LOVE YOU TOO PUMPKIN!'
 
-elsif GRANDMA == 'Hi Nana, how are you?'
+elsif speak_to_grandma == 'Hi Nana, how are you?'
   puts 'HUH?! SPEAK UP, SONNY!'
 
-elsif GRANDMA == 'Hi!'
+elsif speak_to_grandma == 'Hi!'
   puts 'HUH?! SPEAK UP, SONNY!'
 
-elsif GRANDMA == 'WHAT DID YOU EAT TODAY?'
+elsif speak_to_grandma == 'WHAT DID YOU EAT TODAY?'
   puts "NO, NOT SINCE 1938!"
 
-elsif GRANDMA == 'WHAT?'
+elsif speak_to_grandma == 'WHAT?'
   puts "NO, NOT SINCE 1938!"
 
 else
