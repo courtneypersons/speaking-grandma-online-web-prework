@@ -16,8 +16,6 @@ elsif speak_to_grandma == 'WHAT DID YOU EAT TODAY?'
 elsif speak_to_grandma == 'WHAT?'
   puts "NO, NOT SINCE 1938!"
 
-else
-  puts "HUH?!"
 
 end
 
