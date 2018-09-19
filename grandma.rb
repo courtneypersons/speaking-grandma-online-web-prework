@@ -16,7 +16,5 @@ def speak_to_grandma(speak)
 
   elsif speak == 'Hi Nana, how are you?'
     puts "HUH?! SPEAK UP, SONNY!'"
-
-
   end
   
