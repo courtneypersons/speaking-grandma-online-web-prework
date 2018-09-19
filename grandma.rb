@@ -4,7 +4,7 @@ speak_to_grandma = "I LOVE YOU GRANDMA!"
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
 if speak_to_grandma = I LOVE YOU GRANDMA!
-  puts I LOVE YOU TOO PUMPKIN!
+  puts "I LOVE YOU TOO PUMPKIN!"
 end
 # If you shout, she can hear you (or at least she thinks so)
 # and yells back
